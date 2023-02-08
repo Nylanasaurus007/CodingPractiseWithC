@@ -2,7 +2,8 @@
 I created some simple C projects to develop my C skills. These were all done in the main function as I am just starting with C.
 
 Most of the programming exercises were taken from 
-***Problem Solving and Program Design in C***
+***Problem Solving and Program Design in C*** book
+by **Jeri R. Hanly and Elliot B. Koffman**
 
 Coin Processor project: done with some guided code.
 
